@@ -1,10 +1,9 @@
 {
-  "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 6092,
-  "expoServerNgrokUrl": "https://54-rhr.anonymous.fucking-weather.exp.direct",
-  "packagerNgrokUrl": "https://packager.54-rhr.anonymous.fucking-weather.exp.direct",
-  "ngrokPid": 2412,
-  "webpackServerPort": null
+  "expoServerPort": null,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
+  "packagerPort": null,
+  "packagerPid": null
 }
